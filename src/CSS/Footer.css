@@ -1,0 +1,19 @@
+/* Footer.css */
+.footer {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+  /* Add your other styles here */
+}
+
+.footer-logo {
+  margin-right: 1rem;
+  height: 4rem;
+  /* Add your logo styles here */
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+}
+
+/* Add more styles as needed */
